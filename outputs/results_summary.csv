@@ -1,0 +1,6 @@
+Topic,Dataset,Key Metric,Result,Time / Training
+ANN,"Wine Recognition (178 rows, 13 features)",Accuracy,0.9444,60 epochs
+OpenCV,5 images,Faces detected,"{'astronaut': 1, 'coffee': 0, 'chelsea': 0, 'rocket': 0, 'red_flower': 0}",Image operations
+CNN,"MNIST subset (20,000 train / 4,000 test)",Accuracy,0.9755,Up to 8 epochs
+GRU,Melbourne daily minimum temperatures,RMSE (°C),2.23,15 epochs
+Transformers,5 India-related paragraphs / 10 QA prompts,Manually checked,7/10 marked correct,Pretrained inference
