@@ -1,9 +1,9 @@
 tensorflow
-keras
 opencv-python
 scikit-image
-transformers
+transformers==4.44.2
 torch
+tf-keras
 pandas
 numpy
 matplotlib
