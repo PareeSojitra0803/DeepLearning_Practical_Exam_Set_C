@@ -232,7 +232,7 @@ The notebook's results summary is saved to `outputs/results_summary.csv`. Re-run
 ## 🎥 Demonstration Video
 
 
-**Video link:** _Add your Google Drive link (Anyone with the link can view) or unlisted YouTube URL here after uploading the recording._
+**Video link:** https://drive.google.com/file/d/17CWNy86AhkEWCKF5EwGp2diNiFS5hhyz/view?usp=sharing
 
 ---
 
